@@ -150,21 +150,42 @@ skills:
           level: 
         - skill:
           name: Mainframe/Legacy:Cobol,  Cobol/400, DB2/400
+          level: 98%
+        - skill: 
           name: 1C
+          level: 98%
+        - skill: 
           name: C++
+          level: 98%
+        - skill: 
           name: Java Script and JQuery
-          name: JSF, Primeface, CDI 
+          level: 98%
+        - skill: 
+          name: JSF, Primeface, CDI
+          level: 98%
+        - skill: 
           name: JPA, Entity mapping, JPQL   
-          name: EJB, Time Service (@Schedule, @Timeout), @Resource, EntityManager
-                Familiarity with build tools such as Maven, maven repository, ear plugin deploy (for multiple modules), war-plugin, 
-          name: Java Core  :  Error exception, Input output Stream, HashSet, List, 
-                Java 8 Lamda Expression
-          name: API:  sftp, ftp , jt400  (JDBC), poi.(these are API s  which I used more)  
+        - skill: 
+          name: EJB, Time Service, Maven
+          level: 98%
+        - skill: 
+          name: Java Core  
+          level: 80
+        - skill: 
+          name: API:  sftp, ftp , jt400  (JDBC), poi
+          level: 80%
+        - skill: 
           name: Application Server :  JBOSS, administration(Add datasources , xa –datasources , add roles , users)
+          level: 90%
+        - skill: 
           name: Operating system:  Windows 7, 2008 Server  
-          name: Reporting & BI Tools:  Birt reporting(Eclipse),  Crystal Report(little experience),  
-          name: Development tools: Eclipse(Most projects I developed),  Oracle JDeveloper(I started with),  Intellij Idea(Current projects) 
-
+          level: 70
+        - skill: 
+          name: Reporting & BI Tools:  Birt reporting,  Crystal Report 
+          level: 80%
+        - skill: 
+          name: Development tools: Eclipse,  Oracle JDeveloper,  Intellij Idea 
+          level: 85%
                           
 
           
