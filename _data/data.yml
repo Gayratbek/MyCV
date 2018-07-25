@@ -65,11 +65,12 @@ experiences:
         - role: System sustainer , Office Automation
           time: 2003 - 2006
           company: UzDaewoo Auto Company Asaka, Uzbekistan
-          details: Describe your role here I Installed OS to company desktops and do  network settings and sustained
-          solved software issues of users .
-          
-
-        - role: Senior Software Developer
+          details: Describe your role here I Installed OS to company desktops and do  network settings and sustained solved software issues of users .
+          bullets:
+              - Bullet point #1
+              - Bullet point #2
+              
+       -  role: Senior Software Developer
           time: 2006 - 2011
           company: GMUzbekistan Asaka, Uzbekistan
           details: Describe your role I started to make an application in Cobol. There was IBM As400 OS .
