@@ -84,9 +84,12 @@ experiences:
               
 projects:
     title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
+    intro: "You can list your side projects or open source libraries in this section. 
+    Sustain Global warranty system, Material control system ,  Production control system
+    Develop  Upgrading local systems from AS400 applications to Web technology (Java EE)
+    Ensure the best possible performance, quality, and responsiveness of the applications
+    Help maintain code quality, organization, and automatization
+
     projects:
       - project:
         title: Velocity
