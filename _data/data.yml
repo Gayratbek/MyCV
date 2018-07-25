@@ -92,65 +92,103 @@ projects:
 
     projects:
       - project:
-        title: Velocity
+        title: Transporting expenditure
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "this application calculate car and vehicle expenditure in C++. Responsive can make reports based on this application.
+        Technologies: ": Borland C++, Firebird Interbase 6.0 "
+      
       - project:
-        title: DevStudio
+        title: Material control system
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Accounting for material control details, and pricing. Preparation balance report, the defective parts report."
+        Technologies: ": Borland C++, Firebird Interbase 6.0 "
+      
       - project:
-        title: Tempo
+        title: Production control system
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Vehicle movement control , Vehicle BOM control,  Calculating vehicle Cost BOM report. "
+        
       - project:
-        title: Atom
+        title: Line Stop control 
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Calculating total line stop minutes , based on this Calculate total loss because of this reason."
+        Technologies: Java EE(JSF, CDI, EJB,JPA ),  DB2/400, JBOSS web server,, BIRT reporting
+        
       - project:
-        title: Delta
+        title: CAB(Change approval board) 
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Business process for task control"
+        Technologies: Java EE(JSF, CDI, EJB,JPA ),  DB2/400, JBOSS web server,, BIRT reporting
+        
+      - project:
+        title: Journaling entrance 
+        link: "#"
+        tagline: "Business journal the entrance of vehicles and calculate their wages and save other information"
+        Technologies: Java EE(JSF, CDI, EJB,JPA ),  DB2/400, JBOSS web server,, BIRT reporting
+        
+      - project:
+        title: Production pull System(PPS ) 
+        link: "#"
+        tagline: "Project manager for Global Gm projects. Develop and deploy systems Global GM  system PPS  is dedicate to control material movement and request for Warehouse for deficiency parts.    It is automated, there is no  human factor"
+        Technologies: Java EE (JSP),  MSSQL. Cimplicity 
+        
+      - project:
+        title: Sending GWM information to GM Sterling
+        link: "#"
+        tagline: "Automatically sending local information to GIF server for GM Global warranty system"
+        Technologies: Java EE (EJB(@schedule) JPA(Hibernate Mapping, JPQL), Maven(ear plugin)) , Java 8 Lambda , ftpclient(local resource), jcraft(remote resource) , Logging 
 
-publications:
-    title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
-    publications:
-      - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-      - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
+          name: Java, 
+                 (work requirement)
+                (long time ago),
+
+          level: 
+        - skill:
+          name: Mainframe/Legacy:Cobol,  Cobol/400, DB2/400
           level: 98%
-        - skill:
-          name: Javascript & jQuery
+        - skill: 
+          name: 1C
           level: 98%
-        - skill:
-          name: Angular
+        - skill: 
+          name: C++
           level: 98%
-        - skill:
-          name: HTML5 & CSS
-          level: 95%
-        - skill:
-          name: Ruby on Rails
+        - skill: 
+          name: Java Script and JQuery
+          level: 98%
+        - skill: 
+          name: JSF, Primeface, CDI
+          level: 98%
+        - skill: 
+          name: JPA, Entity mapping, JPQL   
+        - skill: 
+          name: EJB, Time Service, Maven
+          level: 98%
+        - skill: 
+          name: Java Core  
+          level: 80
+        - skill: 
+          name: API:  sftp, ftp , jt400  (JDBC), poi
+          level: 80%
+        - skill: 
+          name: Application Server :  JBOSS, administration(Add datasources , xa –datasources , add roles , users)
+          level: 90%
+        - skill: 
+          name: Operating system:  Windows 7, 2008 Server  
+          level: 70
+        - skill: 
+          name: Reporting & BI Tools:  Birt reporting,  Crystal Report 
+          level: 80%
+        - skill: 
+          name: Development tools: Eclipse,  Oracle JDeveloper,  Intellij Idea 
           level: 85%
-        - skill:
-          name: Sketch & Photoshop
-          level: 60%
+                          
+
+          
 
 footer: 
     text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
