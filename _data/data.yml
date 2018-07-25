@@ -51,46 +51,36 @@ career-profile:
 studies: 
     - education:
       degree: Bachelor in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      university: Andijan Economy and Engineering institute.
+      time: 1998 - 2002
+      details: "Describe your study here I studied 4 year for Bachelor degree. I have studied initial programming and 
+      Developer skils in Bachelor degree. Main language I learnt was C++. I built some projects in Borland Builder IDE"
 
-    - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+    
 
 experiences:
     title: Experiences
     
     experiences:
-        - role: Lead Developer
-          time: 2015 - Present
-          company: Startup Hubs, San Francisco
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-          bullets:
-              - Bullet point #1
-              - Bullet point #2
+        - role: System sustainer , Office Automation
+          time: 2003 - 2006
+          company: UzDaewoo Auto Company Asaka, Uzbekistan
+          details: Describe your role here I Installed OS to company desktops and do  network settings and sustained
+          solved software issues of users .
+          
 
-        - role: Senior Software Engineer
-          time: 2014 - 2015
-          company: Google, London
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+        - role: Senior Software Developer
+          time: 2006 - 2011
+          company: GMUzbekistan Asaka, Uzbekistan
+          details: Describe your role I started to make an application in Cobol. There was IBM As400 OS .
+          We made many projects in Cobol language for material Control and Production control.
+          Except cobol sometimes I made an application in C++. One of them is Transporting expenditure;
               
-        - role: UI Developer
-          time: 2012 - 2014
-          company: Amazon, London
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-          bullets:
-              - Bullet point #1
-              - Bullet point #2
+        - role: Software Engineer
+          time: 2011 - 2017
+          company: GMUzbekistan Asaka, Uzbekistan
+          details: Describe your role here I started make a large projects and started to export our Cobol application to web applications
+          I have exported many applications to Web environment using Java tools and technologies.
               
 projects:
     title: Projects
