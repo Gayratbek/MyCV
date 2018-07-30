@@ -7,193 +7,178 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
+    name: Gayrat Komilov
+    tagline: Java EE developer
+    pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    email: gayrat.komilov@gmail.com
+    phone: 998 90 573 23 11
+    website: gayratbek.github.io/MyCV #do not add http://
+    linkedin: gayratbek-komilov-28aa55125
+    github: Gayratbek
+    twitter: '@GayratKomilov'
+    codewars: codewars_username
 
     languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+        - language:
+          idiom: Uzbek
+          level: Native
+        - language:
+          idiom: English
+          level: Professional
+        - language:
+          idiom: Russian
+          level: Technical
         
     interests:
-      - item: Climbing
-        link:
+        - interest:
+          item: Soccer
+          link:
+        - interest:
+          item: Business
+          link:
+        - interest:
+          item: Chatting
+          link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
-
-career-profile:
+career-profile: 
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.<br><br>Second paragraph if required.'
 
-      Second paragraph if required.
+ education:
+    - degree: Bachelor in Computer Science
+      university: Andijan Economy and Engineering institute.
+      time: 1998 - 2002
+      details: "Describe your study here I studied 4 year for Bachelor degree. I have studied initial programming and 
+      Developer skils in Bachelor degree. Main language I learnt was C++. I built some projects in Borland Builder IDE"
 
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
-
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point 
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+    experiences:
+        - role: System sustainer , Office Automation
+          time: 2003 - 2006
+          company: UzDaewoo Auto Company Asaka, Uzbekistan
+          details: Describe your role here I Installed OS to company desktops and do  network settings and sustained solved software issues of users .
+             
+       -  role: Senior Software Developer
+          time: 2006 - 2011
+          company: GMUzbekistan Asaka, Uzbekistan
+          details: Describe your role I started to make an application in Cobol. There was IBM As400 OS .
+          We made many projects in Cobol language for material Control and Production control.
+          Except cobol sometimes I made an application in C++. One of them is Transporting expenditure;
+              
+        - role: Software Engineer
+          time: 2011 - 2017
+          company: GMUzbekistan Asaka, Uzbekistan
+          details: Describe your role here I started make a large projects and started to export our Cobol application to web applications
+          I have exported many applications to Web environment using Java tools and technologies.
+              
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: "You can list your side projects or open source libraries in this section. 
+    Sustain Global warranty system, Material control system ,  Production control system
+    Develop  Upgrading local systems from AS400 applications to Web technology (Java EE)
+    Ensure the best possible performance, quality, and responsiveness of the applications
+    Help maintain code quality, organization, and automatization
 
-    assignments:
-      - title: Velocity
+    projects:
+      - project:
+        title: Transporting expenditure
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+        tagline: "this application calculate car and vehicle expenditure in C++. Responsive can make reports based on this application.
+        Technologies: ": Borland C++, Firebird Interbase 6.0 "
+      
+      - project:
+        title: Material control system
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
+        tagline: "Accounting for material control details, and pricing. Preparation balance report, the defective parts report."
+        Technologies: ": Borland C++, Firebird Interbase 6.0 "
+      
+      - project:
+        title: Production control system
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
+        tagline: "Vehicle movement control , Vehicle BOM control,  Calculating vehicle Cost BOM report. "
+        
+      - project:
+        title: Line Stop control 
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
+        tagline: "Calculating total line stop minutes , based on this Calculate total loss because of this reason."
+        Technologies: Java EE(JSF, CDI, EJB,JPA ),  DB2/400, JBOSS web server,, BIRT reporting
+        
+      - project:
+        title: CAB(Change approval board) 
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Business process for task control"
+        Technologies: Java EE(JSF, CDI, EJB,JPA ),  DB2/400, JBOSS web server,, BIRT reporting
+        
+      - project:
+        title: Journaling entrance 
+        link: "#"
+        tagline: "Business journal the entrance of vehicles and calculate their wages and save other information"
+        Technologies: Java EE(JSF, CDI, EJB,JPA ),  DB2/400, JBOSS web server,, BIRT reporting
+        
+      - project:
+        title: Production pull System(PPS ) 
+        link: "#"
+        tagline: "Project manager for Global Gm projects. Develop and deploy systems Global GM  system PPS  is dedicate to control material movement and request for Warehouse for deficiency parts.    It is automated, there is no  human factor"
+        Technologies: Java EE (JSP),  MSSQL. Cimplicity 
+        
+      - project:
+        title: Sending GWM information to GM Sterling
+        link: "#"
+        tagline: "Automatically sending local information to GIF server for GM Global warranty system"
+        Technologies: Java EE (EJB(@schedule) JPA(Hibernate Mapping, JPQL), Maven(ear plugin)) , Java 8 Lambda , ftpclient(local resource), jcraft(remote resource) , Logging 
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
+    skills:
+        - skill:
+          name: Java, 
+                 (work requirement)
+                (long time ago),
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+          level: 
+        - skill:
+          name: Mainframe/Legacy:Cobol,  Cobol/400, DB2/400
+          level: 98%
+        - skill: 
+          name: 1C
+          level: 98%
+        - skill: 
+          name: C++
+          level: 98%
+        - skill: 
+          name: Java Script and JQuery
+          level: 98%
+        - skill: 
+          name: JSF, Primeface, CDI
+          level: 98%
+        - skill: 
+          name: JPA, Entity mapping, JPQL   
+        - skill: 
+          name: EJB, Time Service, Maven
+          level: 98%
+        - skill: 
+          name: Java Core  
+          level: 80
+        - skill: 
+          name: API:  sftp, ftp , jt400  (JDBC), poi
+          level: 80%
+        - skill: 
+          name: Application Server :  JBOSS, administration(Add datasources , xa –datasources , add roles , users)
+          level: 90%
+        - skill: 
+          name: Operating system:  Windows 7, 2008 Server  
+          level: 70
+        - skill: 
+          name: Reporting & BI Tools:  Birt reporting,  Crystal Report 
+          level: 80%
+        - skill: 
+          name: Development tools: Eclipse,  Oracle JDeveloper,  Intellij Idea 
+          level: 85%
+                          
 
-      - name: Javascript & jQuery
-        level: 98%
+          
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: 
+    text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
