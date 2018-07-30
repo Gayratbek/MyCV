@@ -48,9 +48,8 @@ career-profile:
     title: Career Profile
     text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.<br><br>Second paragraph if required.'
 
-studies: 
-    - education:
-      degree: Bachelor in Computer Science
+ education:
+    - degree: Bachelor in Computer Science
       university: Andijan Economy and Engineering institute.
       time: 1998 - 2002
       details: "Describe your study here I studied 4 year for Bachelor degree. I have studied initial programming and 
