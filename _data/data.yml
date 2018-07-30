@@ -56,11 +56,6 @@ studies:
       details: "Describe your study here I studied 4 year for Bachelor degree. I have studied initial programming and 
       Developer skils in Bachelor degree. Main language I learnt was C++. I built some projects in Borland Builder IDE"
 
-    
-
-experiences:
-    title: Experiences
-    
     experiences:
         - role: System sustainer , Office Automation
           time: 2003 - 2006
