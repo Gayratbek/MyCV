@@ -80,9 +80,8 @@ projects:
     Ensure the best possible performance, quality, and responsiveness of the applications
     Help maintain code quality, organization, and automatization
 
-    projects:
-      - project:
-        title: Transporting expenditure
+    assignments:
+      - title: Transporting expenditure
         link: "#hook"
         tagline: "this application calculate car and vehicle expenditure in C++. Responsive can make reports based on this application.
         Technologies: ": Borland C++, Firebird Interbase 6.0 "
@@ -93,8 +92,7 @@ projects:
         tagline: "Accounting for material control details, and pricing. Preparation balance report, the defective parts report."
         Technologies: ": Borland C++, Firebird Interbase 6.0 "
       
-      - project:
-        title: Production control system
+      - title: Production control system
         link: "#"
         tagline: "Vehicle movement control , Vehicle BOM control,  Calculating vehicle Cost BOM report. "
         
@@ -104,26 +102,22 @@ projects:
         tagline: "Calculating total line stop minutes , based on this Calculate total loss because of this reason."
         Technologies: Java EE(JSF, CDI, EJB,JPA ),  DB2/400, JBOSS web server,, BIRT reporting
         
-      - project:
-        title: CAB(Change approval board) 
+      - title: CAB(Change approval board) 
         link: "#"
         tagline: "Business process for task control"
         Technologies: Java EE(JSF, CDI, EJB,JPA ),  DB2/400, JBOSS web server,, BIRT reporting
         
-      - project:
-        title: Journaling entrance 
+      - title: Journaling entrance 
         link: "#"
         tagline: "Business journal the entrance of vehicles and calculate their wages and save other information"
         Technologies: Java EE(JSF, CDI, EJB,JPA ),  DB2/400, JBOSS web server,, BIRT reporting
         
-      - project:
-        title: Production pull System(PPS ) 
+      - title: Production pull System(PPS ) 
         link: "#"
         tagline: "Project manager for Global Gm projects. Develop and deploy systems Global GM  system PPS  is dedicate to control material movement and request for Warehouse for deficiency parts.    It is automated, there is no  human factor"
         Technologies: Java EE (JSP),  MSSQL. Cimplicity 
         
-      - project:
-        title: Sending GWM information to GM Sterling
+      - title: Sending GWM information to GM Sterling
         link: "#"
         tagline: "Automatically sending local information to GIF server for GM Global warranty system"
         Technologies: Java EE (EJB(@schedule) JPA(Hibernate Mapping, JPQL), Maven(ear plugin)) , Java 8 Lambda , ftpclient(local resource), jcraft(remote resource) , Logging 
@@ -131,50 +125,50 @@ projects:
 
 skills:
     title: Skills &amp; Proficiency
-    skills:
-        - skill:
-          name: Java, 
+    toolset:
+       
+        - name: Java, 
                  (work requirement)
                 (long time ago),
+          level: 90% 
+        
+        - name: Mainframe/Legacy:Cobol,  Cobol/400, DB2/400
+          level: 98%
 
-          level: 
-        - skill:
-          name: Mainframe/Legacy:Cobol,  Cobol/400, DB2/400
+        - name: 1C
           level: 98%
-        - skill: 
-          name: 1C
+       
+        - name: C++
           level: 98%
-        - skill: 
-          name: C++
+        
+        - name: Java Script and JQuery
           level: 98%
-        - skill: 
-          name: Java Script and JQuery
+        
+        - name: JSF, Primeface, CDI
           level: 98%
-        - skill: 
-          name: JSF, Primeface, CDI
+        
+        - name: JPA, Entity mapping, JPQL   
           level: 98%
-        - skill: 
-          name: JPA, Entity mapping, JPQL   
-        - skill: 
-          name: EJB, Time Service, Maven
+                
+        - name: EJB, Time Service, Maven
           level: 98%
-        - skill: 
-          name: Java Core  
+       
+        - name: Java Core  
           level: 80
-        - skill: 
-          name: API:  sftp, ftp , jt400  (JDBC), poi
+        
+        - name: API:  sftp, ftp , jt400  (JDBC), poi
           level: 80%
-        - skill: 
-          name: Application Server :  JBOSS, administration(Add datasources , xa –datasources , add roles , users)
+        
+        - name: Application Server :  JBOSS, administration(Add datasources , xa –datasources , add roles , users)
           level: 90%
-        - skill: 
-          name: Operating system:  Windows 7, 2008 Server  
+        
+        - name: Operating system:  Windows 7, 2008 Server  
           level: 70
-        - skill: 
-          name: Reporting & BI Tools:  Birt reporting,  Crystal Report 
+        
+        - name: Reporting & BI Tools:  Birt reporting,  Crystal Report 
           level: 80%
-        - skill: 
-          name: Development tools: Eclipse,  Oracle JDeveloper,  Intellij Idea 
+        
+        - name: Development tools: Eclipse,  Oracle JDeveloper,  Intellij Idea 
           level: 85%
                           
 
